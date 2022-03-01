@@ -1,0 +1,10 @@
+#just track the website transfer script
+
+db-transfer/
+db-transfer/*
+libraries/
+libraries/*
+modules-transfer/
+modules-transfer/*
+site-transfer/
+site-transfer/*
