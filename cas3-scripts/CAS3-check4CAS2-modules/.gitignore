@@ -1,0 +1,10 @@
+#this is the gitignore file that I will use in general to avoid untracked backup/previous saves of emacs files ending in ~
+
+*.*~
+
+sites
+sites/*
+cas2-backups
+cas2-backups/*
+moduleslists
+moduleslists/*
