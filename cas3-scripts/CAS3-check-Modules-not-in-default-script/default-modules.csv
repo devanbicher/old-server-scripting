@@ -1,0 +1,64 @@
+Administration menu (admin_menu),7.x-3.0-rc5,Enabled
+Administration menu Toolbar style (admin_menu_toolbar),7.x-3.0-rc5,Enabled
+Filter permissions (filter_perms),7.x-1.0,Enabled
+Module filter (module_filter),7.x-2.1,Enabled
+Chaos tools (ctools),7.x-1.12,Enabled
+Block (block),7.67,Enabled
+Contextual links (contextual),7.67,Enabled
+Database logging (dblog),7.67,Enabled
+Field (field),7.67,Enabled
+Field SQL storage (field_sql_storage),7.67,Enabled
+Field UI (field_ui),7.67,Enabled
+File (file),7.67,Enabled
+Filter (filter),7.67,Enabled
+Image (image),7.67,Enabled
+List (list),7.67,Enabled
+Menu (menu),7.67,Enabled
+Node (node),7.67,Enabled
+Number (number),7.67,Enabled
+Options (options),7.67,Enabled
+Path (path),7.67,Enabled
+RDF (rdf),7.67,Enabled
+Search (search),7.67,Enabled
+Shortcut (shortcut),7.67,Enabled
+Syslog (syslog),7.67,Enabled
+System (system),7.67,Enabled
+Taxonomy (taxonomy),7.67,Enabled
+Text (text),7.67,Enabled
+Update manager (update),7.67,Enabled
+User (user),7.67,Enabled
+Date (date),7.x-2.9,Enabled
+Date API (date_api),7.x-2.9,Enabled
+Date Views (date_views),7.x-2.9,Enabled
+Features (features),7.x-2.10,Enabled
+Email (email),7.x-1.3,Enabled
+File (Field) Paths (filefield_paths),7.x-1.1,Enabled
+File Field Sources (filefield_sources),7.x-1.11,Enabled
+Link (link),7.x-1.6,Enabled
+Pathologic (pathologic),7.x-2.12,Enabled
+LDAP Authentication (ldap_authentication),7.x-1.0-beta14,Enabled
+LDAP Servers (ldap_servers),7.x-1.0-beta14,Enabled
+IMCE (imce),7.x-1.10,Enabled
+Backup and Migrate (backup_migrate),7.x-3.4,Enabled
+Block Class (block_class),7.x-2.4,Enabled
+Block Group (blockgroup),7.x-2.2,Enabled
+Diff (diff),7.x-3.3,Enabled
+Libraries (libraries),7.x-2.3,Enabled
+Pathauto (pathauto),7.x-1.3,Enabled
+Publish Content (publishcontent),7.x-1.4,Enabled
+Redirect (redirect),7.x-1.0-rc3,Enabled
+Secure Pages (securepages),7.x-1.0-beta2,Enabled
+Security Review (security_review),7.x-1.2,Enabled
+Strongarm (strongarm),7.x-2.0,Enabled
+Token (token),7.x-1.6,Enabled
+Global Redirect (globalredirect),7.x-1.5,Enabled
+No Request New Pass (noreqnewpass),7.x-1.2,Enabled
+View Unpublished (view_unpublished),7.x-1.2,Enabled
+Google Analytics (googleanalytics),7.x-2.3,Enabled
+CKEditor Link (ckeditor_link),7.x-2.4,Enabled
+IMCE Wysiwyg API bridge (imce_wysiwyg),7.x-1.0,Enabled
+jQuery Update (jquery_update),7.x-2.7,Enabled
+Responsive Menus (responsive_menus),7.x-1.7,Enabled
+Wysiwyg (wysiwyg),7.x-2.2,Enabled
+Views (views),7.x-3.14,Enabled
+Views UI (views_ui),7.x-3.14,Enabled
