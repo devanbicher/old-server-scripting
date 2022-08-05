@@ -1,0 +1,16 @@
+
+
+first an outline for doing a backup.
+
+it should just be assumed that the backing up is done in the folder you are trying to backup in. 
+but you will need to supply the name of the folder to do the backing up.
+
+1. check if the private folder exists, make it if not
+2. check for a file_private_path variable
+3. set the variable if it is not set.
+4. make the folders <site>/files/private/backup_migrate/manual
+5. set permissions to .../manual to allow the server to write to it
+       a. chgrp -R casadmin private
+       b. chmod g+w private/backup_migrate/manual
+6. copy the backupfile, if successful, to cas4: cas2backup_migrate-bus
+
